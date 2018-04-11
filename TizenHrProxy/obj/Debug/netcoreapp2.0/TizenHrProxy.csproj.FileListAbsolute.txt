@@ -1,0 +1,10 @@
+/Users/Krzysiek/Source/TizenHrProxy/bin/Debug/netcoreapp2.0/TizenHrProxy.deps.json
+/Users/Krzysiek/Source/TizenHrProxy/bin/Debug/netcoreapp2.0/TizenHrProxy.runtimeconfig.json
+/Users/Krzysiek/Source/TizenHrProxy/bin/Debug/netcoreapp2.0/TizenHrProxy.runtimeconfig.dev.json
+/Users/Krzysiek/Source/TizenHrProxy/bin/Debug/netcoreapp2.0/TizenHrProxy.dll
+/Users/Krzysiek/Source/TizenHrProxy/bin/Debug/netcoreapp2.0/TizenHrProxy.pdb
+/Users/Krzysiek/Source/TizenHrProxy/obj/Debug/netcoreapp2.0/TizenHrProxy.csproj.CoreCompileInputs.cache
+/Users/Krzysiek/Source/TizenHrProxy/obj/Debug/netcoreapp2.0/TizenHrProxy.AssemblyInfoInputs.cache
+/Users/Krzysiek/Source/TizenHrProxy/obj/Debug/netcoreapp2.0/TizenHrProxy.AssemblyInfo.cs
+/Users/Krzysiek/Source/TizenHrProxy/obj/Debug/netcoreapp2.0/TizenHrProxy.dll
+/Users/Krzysiek/Source/TizenHrProxy/obj/Debug/netcoreapp2.0/TizenHrProxy.pdb
